@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rhuan Rodrigues
+Rhuan Rodrigues
 
 **`Desenvolvedor Backend`**
 
