@@ -8,7 +8,7 @@ Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmen
     <a href="">
         <img 
             alt="loc" 
-            title="" 
+            title="Localização" 
             src="https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-Brasil-yellow?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
@@ -55,7 +55,7 @@ Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmen
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
