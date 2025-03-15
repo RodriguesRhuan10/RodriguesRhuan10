@@ -8,8 +8,8 @@ Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmen
     <a href="https://mail.google.com/">
         <img 
             alt="Email" 
-            title="rodriguesrhuan10@gmail.com" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
+            title="rodriguesrhuan10@gmail.co" 
+            src="https://custom-icon-badges.demolab.com/badge/-rodriguesrhuan10@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
     <a href="https://github.com/RodriguesRhuan10?tab=followers">
