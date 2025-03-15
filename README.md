@@ -12,7 +12,7 @@ Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmen
             src="https://custom-icon-badges.demolab.com/badge/-rodriguesrhuan10@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://mail.google.com/">
+    <a href="">
         <img 
             alt="loc" 
             title="" 
