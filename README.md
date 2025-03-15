@@ -16,7 +16,7 @@ Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmen
         <img 
             alt="loc" 
             title="" 
-            src="https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-Brasil-green?style=for-the-badge&logo=location&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-Brasil-#93c47d?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
     <a href="https://github.com/RodriguesRhuan10?tab=followers">
