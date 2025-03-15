@@ -9,7 +9,7 @@ https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-Brasil-yellow?style=
         <img 
             alt="loc" 
             title="" 
-            src="https://custom-icon-badges.demolab.com/badge/-rodriguesrhuan10@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-rodriguesrhuan10@gmail.com-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
     <a href="">
