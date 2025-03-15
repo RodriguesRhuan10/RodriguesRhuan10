@@ -14,9 +14,9 @@ Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmen
     </a>
     <a href="https://mail.google.com/">
         <img 
-            alt="Email" 
-            title="rodriguesrhuan10@gmail.co" 
-            src="https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-Brasil-yellow?style=for-the-badge&logo=location&logoColor=white"
+            alt="loc" 
+            title="" 
+            src="https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-Brasil-green?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
     <a href="https://github.com/RodriguesRhuan10?tab=followers">
