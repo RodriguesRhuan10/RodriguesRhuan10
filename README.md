@@ -5,11 +5,11 @@ Rhuan Rodrigues
 Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Internacional (Uninter).
 
 <p align="left"
-    <a href="https://www.linkedin.com/in/rhuan-rodrigues-25a077216/">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
-            alt="Linkedin" 
-            title="Pefil do Linkedin" 
-            src=""
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://github.com/RodriguesRhuan10?tab=followers">
