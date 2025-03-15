@@ -5,13 +5,6 @@ Rhuan Rodrigues
 Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Internacional (Uninter).
 
 <p align="left"
-        <a href="https://mail.google.com/">
-        <img 
-            alt="loc" 
-            title="" 
-            src="https://custom-icon-badges.demolab.com/badge/rodriguesrhuan10@gmail.com-orange?style=for-the-badge&logo=phone&logoColor=white"
-        />
-    </a>
     <a href="">
         <img 
             alt="loc" 
@@ -30,7 +23,7 @@ Me chamo Rhuan Rodrigues, tenho 22 anos e um entusiasta por tecnologia. Atualmen
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👨‍💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
